@@ -1,0 +1,67 @@
+
+body{
+  font-family: 'Hal', Halo, monospace;
+  background-size: 100%;
+}
+#scrollUp{
+position: fixed;
+bottom : 10px;
+right: -100px;
+opacity: 0.5;
+}
+
+#videoko {
+  position: fixed;
+  z-index: -1;
+  width: 100vw;
+  height: auto;
+}
+
+
+.textete {
+  padding: 0%;
+  border-top-left-radius: 20%;
+  border-top-right-radius: 20%;
+  background-color: rgba(51, 45, 45, 0.767);
+  width: 70%;
+  height: 50px;
+  margin: auto;
+  font-family: 'Hanalei Fill', cursive;
+  color: rgb(214, 24, 24);
+}
+h1{
+  text-align: center;
+  position: relative;
+  color: rgb(230, 16, 16);
+  padding: 0%;
+  
+  
+  }
+.textecentre{
+  background-color: rgba(168, 18, 18, 0.767);
+  width: 70%;
+  height: 850px;
+  margin: auto;
+}
+h2{
+  text-align: center;
+}
+
+.longtext {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  padding: 2%;
+  
+  font-size: 20px;
+}
+#lesimage{
+
+text-align: center;
+}
+
+.image {
+  height: 250px;
+  width: 250px;
+  border: solid;
+}
