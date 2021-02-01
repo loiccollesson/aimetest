@@ -40,7 +40,7 @@ h1{
 .textecentre{
   background-color: rgba(168, 18, 18, 0.767);
   width: 70%;
-  height: 850px;
+  /*height: 850px;*/
   margin: auto;
 }
 h2{
@@ -67,4 +67,44 @@ text-align: center;
 }
 .yop {
   color: yellow;
+  text-align: center;
+}
+
+.pe {
+  color: black;
+
+}
+
+.jenesaispas {
+
+  color: rgb(214, 24, 24);
+  text-align: center;
+  width: 70%;
+  /*height: 850px;*/
+  margin: auto;
+  padding: 0%;
+  font-family: 'Hanalei Fill', cursive;
+  background-color: rgb(51, 45, 45, 0.767);
+}
+
+.basbas {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  background-color: rgba(214, 24, 24, 0.767);
+  width: 70%;
+  margin: auto
+}
+
+
+.seigneur {
+  color: black;
+  text-align: center;
+  font-family: 'Hanalei Fill', cursive;
+}
+
+.vende {
+  color: black;
+  width: 70%;
+  height: 70%;
+  text-align: center;
 }
